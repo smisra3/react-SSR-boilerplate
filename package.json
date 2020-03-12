@@ -1,0 +1,19 @@
+{
+  "name": "react_ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smisra3/react-SSR-boilerplate.git"
+  },
+  "author": "Shubhankar Misra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smisra3/react-SSR-boilerplate/issues"
+  },
+  "homepage": "https://github.com/smisra3/react-SSR-boilerplate#readme"
+}
